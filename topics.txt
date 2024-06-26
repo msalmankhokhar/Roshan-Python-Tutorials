@@ -1,0 +1,25 @@
+Topics that we have to cover: (Python)
+
+Variables and data types ✅
+operators ✅
+Type Casting ✅
+Strings
+user input
+if else ✅
+while loop ✅
+for loop ✅
+functions
+Lambda functions
+scope of variables
+Lists ✅
+Dictionaries 
+Tuple 
+Set 
+List comprehension
+Dictionary Comprehension
+How import works
+pip and modules 
+Exception Handling
+File Handling
+OS module
+Object Oriented Programming
