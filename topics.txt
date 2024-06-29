@@ -3,18 +3,18 @@ Topics that we have to cover: (Python)
 Variables and data types ✅
 operators ✅
 Type Casting ✅
-Strings
-user input
+Strings Done
+user input Done
 if else ✅
 while loop ✅
 for loop ✅
-functions
-Lambda functions
-scope of variables
+functions Done
+Lambda functions Done
+scope of variables Done
 Lists ✅
-Dictionaries 
-Tuple 
-Set 
+Dictionaries Done
+Tuple Done
+Set Done
 List comprehension
 Dictionary Comprehension
 How import works
