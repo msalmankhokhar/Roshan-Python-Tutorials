@@ -3,23 +3,23 @@ Topics that we have to cover: (Python)
 Variables and data types ✅
 operators ✅
 Type Casting ✅
-Strings Done
-user input Done
+Strings ✅
+user input ✅
 if else ✅
 while loop ✅
 for loop ✅
-functions Done
-Lambda functions Done
-scope of variables Done
+functions ✅
+Lambda functions ✅
+scope of variables ✅
 Lists ✅
-Dictionaries Done
-Tuple Done
-Set Done
-List comprehension
-Dictionary Comprehension
+Dictionaries ✅
+Tuple ✅
+Set ✅
+List comprehension ✅
+Dictionary Comprehension ✅
 How import works
 pip and modules 
 Exception Handling
-File Handling
+File Handling ✅
 OS module
 Object Oriented Programming
